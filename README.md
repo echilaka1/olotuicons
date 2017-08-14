@@ -29,7 +29,7 @@ Copy the OLOTUICONS directory into your project. Reference the location to your 
 After you have added OLOTUICONS into your project, you can use the icons anywhere with the &lt;i&gt; or &lt;span&gt; tag. Examples below shows basic usage.
 
 ```html
-<i class="olotu-zuma-rock"></i> Rivers State Seceratariat
+<i class="olotu-zuma-rock"></i> Zuma Rock
 ```
 
 
