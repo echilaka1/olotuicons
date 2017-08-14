@@ -1,0 +1,26 @@
+{
+  "name": "olotuicons",
+  "description": "Web icon font with customized Nigerian icons",
+  "main": "olotuicons.min.css",
+  "keywords": [
+    "olotuicons",
+    "vectors",
+    "icons",
+    "webfont",
+    "afro-icons",
+    "nigerian",
+    "icons"
+  ],
+  "authors": [
+    "Emmanuel Chilaka <chilaka.devsq@olotusquare.co>",
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/echilaka1/olotuicons",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
